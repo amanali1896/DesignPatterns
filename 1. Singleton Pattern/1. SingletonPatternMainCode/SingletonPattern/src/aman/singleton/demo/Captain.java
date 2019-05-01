@@ -1,7 +1,7 @@
 package aman.singleton.demo;
 
 final class Captain {
-	private static Captain captain;
+	private static Captain captain; // instance variable
 
 	//private since we have to make constructor private
 	//By this, others will not be able to change the value. and we will
