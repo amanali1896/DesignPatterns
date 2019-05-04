@@ -7,4 +7,4 @@ Builder pattern:
 1. We use a blueprinted template and modify a lot of features in it to get different outputs. 
 2. Builder pattern gives us more flexibility. 
 3. Builder pattern is like a superset of prototype pattern. 
-4. 
+4. Builder pattern is memory intensive and complex.
